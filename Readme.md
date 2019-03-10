@@ -1,5 +1,5 @@
 
-#My Art Work
+# My Art Work
 
 ## Mother Teresa
 ![Mother Teresa](https://github.com/nischalareddy/MyArt/blob/master/MotherTeresa.jpg)
