@@ -1,12 +1,24 @@
 
-My Art Work
+#My Art Work
 
-![Mother Teresa](https://github.com/nischalareddy/MyArt/blob/master/Mother Teresa.jpg)
-![Mothers Love](https://github.com/nischalareddy/MyArt/blob/master/Mothers Love.jpg)
+## Mother Teresa
+![Mother Teresa](https://github.com/nischalareddy/MyArt/blob/master/MotherTeresa.jpg)
+
+## Mothers Love
+![Mothers Love](https://github.com/nischalareddy/MyArt/blob/master/MothersLove.jpg)
+
+## Frozen
 ![Frozen](https://github.com/nischalareddy/MyArt/blob/master/Frozen.jpg)
+
+## Dream
 ![Dream](https://github.com/nischalareddy/MyArt/blob/master/Dream.jpg)
+
+## Mind
 ![Mind](https://github.com/nischalareddy/MyArt/blob/master/Mind.jpg)
-![KiddyArtist](https://github.com/nischalareddy/MyArt/blob/master/KiddyArtist.jpg)
+
+## Kiddy Artist
+![Kiddy Artist](https://github.com/nischalareddy/MyArt/blob/master/KiddyArtist.jpg)
+
 
 
 
